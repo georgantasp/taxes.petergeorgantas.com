@@ -1,0 +1,5602 @@
+[
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000001_________M",
+    "class": "2",
+    "year_built": 1905,
+    "block": "22.10",
+    "lot": "1",
+    "street_address": "403 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1938,
+    "acreage": 0.1463,
+    "taxes": 7479.0,
+    "tax_records": {
+      "2014": {
+        "lnd": 70100,
+        "imp": 70100,
+        "exp": null,
+        "ass": 220100,
+        "lnd_psqf": 479152.42652084754,
+        "imp_psqf": 36.17131062951496
+      },
+      "2013": {
+        "lnd": 70100,
+        "imp": 70100,
+        "exp": null,
+        "ass": 220100,
+        "lnd_psqf": 479152.42652084754,
+        "imp_psqf": 36.17131062951496
+      },
+      "2012": {
+        "lnd": 70100,
+        "imp": 70100,
+        "exp": null,
+        "ass": 220100,
+        "lnd_psqf": 479152.42652084754,
+        "imp_psqf": 36.17131062951496
+      },
+      "2011": {
+        "lnd": 70100,
+        "imp": 70100,
+        "exp": null,
+        "ass": 220100,
+        "lnd_psqf": 479152.42652084754,
+        "imp_psqf": 36.17131062951496
+      }
+    },
+    "tax_rate": 0.033980009086778735
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000002_________M",
+    "class": "2",
+    "year_built": 1968,
+    "block": "22.10",
+    "lot": "2",
+    "street_address": "402 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2052,
+    "acreage": 0.22,
+    "taxes": 7767.83,
+    "sale_date": "11/21/02",
+    "sale_price": 200940,
+    "tax_records": {
+      "2014": {
+        "lnd": 76500,
+        "imp": 76500,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 347727.2727272727,
+        "imp_psqf": 37.280701754385966
+      },
+      "2013": {
+        "lnd": 76500,
+        "imp": 76500,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 347727.2727272727,
+        "imp_psqf": 37.280701754385966
+      },
+      "2012": {
+        "lnd": 76500,
+        "imp": 76500,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 347727.2727272727,
+        "imp_psqf": 37.280701754385966
+      },
+      "2011": {
+        "lnd": 76500,
+        "imp": 76500,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 347727.2727272727,
+        "imp_psqf": 37.280701754385966
+      }
+    },
+    "tax_rate": 0.03398000874890639,
+    "ratio": 1.1376530307554493
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000003_________M",
+    "class": "2",
+    "year_built": 1972,
+    "block": "22.10",
+    "lot": "3",
+    "street_address": "405 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1524,
+    "acreage": 0.1435,
+    "taxes": 6387.75,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 202700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.493438320209975
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 202700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.493438320209975
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 202700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.493438320209975
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 202700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.493438320209975
+      }
+    },
+    "tax_rate": 0.03151332017760237
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000004_________M",
+    "class": "2",
+    "year_built": 1910,
+    "block": "22.10",
+    "lot": "4",
+    "street_address": "407 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1824,
+    "acreage": 0.1435,
+    "taxes": 8199.37,
+    "sale_date": "03/02/12",
+    "sale_price": 230000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 241300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.85964912280702
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 241300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.85964912280702
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 241300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.85964912280702
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 241300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.85964912280702
+      }
+    },
+    "tax_rate": 0.03397998342312474,
+    "ratio": 1.0491304347826087
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000005_________M",
+    "class": "2",
+    "year_built": 1974,
+    "block": "22.10",
+    "lot": "5",
+    "street_address": "409 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1728,
+    "acreage": 0.1435,
+    "taxes": 7480.46,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 227500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 46.2962962962963
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 227500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 46.2962962962963
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 227500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 46.2962962962963
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 227500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 46.2962962962963
+      }
+    },
+    "tax_rate": 0.03288114285714286
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000006_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "6",
+    "street_address": "411 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1777,
+    "acreage": 0.1435,
+    "taxes": 6539.21,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 199800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.01969611705121
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 199800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.01969611705121
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 199800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.01969611705121
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 199800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.01969611705121
+      }
+    },
+    "tax_rate": 0.03272877877877878
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000007_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "7",
+    "street_address": "413 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 952,
+    "acreage": 0.1435,
+    "taxes": 6129.99,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 180400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 84.03361344537815
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 180400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 84.03361344537815
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 180400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 84.03361344537815
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 180400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 84.03361344537815
+      }
+    },
+    "tax_rate": 0.0339799889135255
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000008_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "8",
+    "street_address": "415 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1486,
+    "acreage": 0.1435,
+    "taxes": 7543.56,
+    "sale_date": "12/28/07",
+    "sale_price": 259900,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 53.83580080753701
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 53.83580080753701
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 53.83580080753701
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 53.83580080753701
+      }
+    },
+    "tax_rate": 0.03398,
+    "ratio": 0.8541746825702193
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000009_________M",
+    "class": "2",
+    "year_built": 1961,
+    "block": "22.10",
+    "lot": "9",
+    "street_address": "417 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1288,
+    "acreage": 0.1435,
+    "taxes": 6848.42,
+    "sale_date": "06/30/97",
+    "sale_price": 125000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 62.11180124223603
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 62.11180124223603
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 62.11180124223603
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 62.11180124223603
+      }
+    },
+    "tax_rate": 0.03278324557204404,
+    "ratio": 1.6712
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000010_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "10",
+    "street_address": "419 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1640,
+    "acreage": 0.1435,
+    "taxes": 7162.99,
+    "sale_date": "12/30/05",
+    "sale_price": 165000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.78048780487805
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.78048780487805
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.78048780487805
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.78048780487805
+      }
+    },
+    "tax_rate": 0.0339800284629981,
+    "ratio": 1.2775757575757576
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000011_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "11",
+    "street_address": "421 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1882,
+    "acreage": 0.1435,
+    "taxes": 8070.26,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 237500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.50797024442083
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 237500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.50797024442083
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 237500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.50797024442083
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 237500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.50797024442083
+      }
+    },
+    "tax_rate": 0.03398004210526316
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000012_________M",
+    "class": "2",
+    "year_built": 1960,
+    "block": "22.10",
+    "lot": "12",
+    "street_address": "423 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1890,
+    "acreage": 0.1435,
+    "taxes": 9140.63,
+    "sale_date": "02/09/07",
+    "sale_price": 297000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 269000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.32804232804233
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 240200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.32804232804233
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 240200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.32804232804233
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 240200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.32804232804233
+      }
+    },
+    "tax_rate": 0.03398003717472119,
+    "ratio": 0.9057239057239057
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000013_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.10",
+    "lot": "13",
+    "street_address": "425 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2383,
+    "acreage": 0.287,
+    "taxes": 9650.32,
+    "tax_records": {
+      "2014": {
+        "lnd": 92500,
+        "imp": 92500,
+        "exp": null,
+        "ass": 284000,
+        "lnd_psqf": 322299.65156794427,
+        "imp_psqf": 38.81661770877046
+      },
+      "2013": {
+        "lnd": 92500,
+        "imp": 92500,
+        "exp": null,
+        "ass": 284000,
+        "lnd_psqf": 322299.65156794427,
+        "imp_psqf": 38.81661770877046
+      },
+      "2012": {
+        "lnd": 92500,
+        "imp": 92500,
+        "exp": null,
+        "ass": 284000,
+        "lnd_psqf": 322299.65156794427,
+        "imp_psqf": 38.81661770877046
+      },
+      "2011": {
+        "lnd": 92500,
+        "imp": 92500,
+        "exp": null,
+        "ass": 284000,
+        "lnd_psqf": 322299.65156794427,
+        "imp_psqf": 38.81661770877046
+      }
+    },
+    "tax_rate": 0.033979999999999996
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000014_________M",
+    "class": "2",
+    "year_built": 1915,
+    "block": "22.10",
+    "lot": "14",
+    "street_address": "429 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2036,
+    "acreage": 0.1435,
+    "taxes": 8297.91,
+    "sale_date": "05/23/08",
+    "sale_price": 221000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 244200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.29273084479372
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 244200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.29273084479372
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.29273084479372
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.29273084479372
+      }
+    },
+    "tax_rate": 0.03397997542997543,
+    "ratio": 1.104977375565611
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000015_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "15",
+    "street_address": "431 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1593,
+    "acreage": 0.1435,
+    "taxes": 7190.17,
+    "sale_date": "09/29/95",
+    "sale_price": 96900,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 211600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.21971123666039
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 211600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.21971123666039
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 211600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.21971123666039
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 211600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.21971123666039
+      }
+    },
+    "tax_rate": 0.03398000945179584,
+    "ratio": 2.1836945304437565
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000016_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "16",
+    "street_address": "433 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2656,
+    "acreage": 0.1435,
+    "taxes": 9932.35,
+    "sale_date": "08/06/13",
+    "sale_price": 376000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 292300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 30.120481927710845
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 292300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 30.120481927710845
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 292300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 30.120481927710845
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 292300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 30.120481927710845
+      }
+    },
+    "tax_rate": 0.03397998631542935,
+    "ratio": 0.7773936170212766
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000017_________M",
+    "class": "2",
+    "year_built": 2004,
+    "block": "22.10",
+    "lot": "17",
+    "street_address": "435 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 3496,
+    "acreage": 0.1435,
+    "taxes": 13911.41,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 409400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 22.88329519450801
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 409400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 22.88329519450801
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 409400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 22.88329519450801
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 409400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 22.88329519450801
+      }
+    },
+    "tax_rate": 0.033979995114802146
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000018_________M",
+    "class": "2",
+    "year_built": 1968,
+    "block": "22.10",
+    "lot": "18",
+    "street_address": "437 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1908,
+    "acreage": 0.1435,
+    "taxes": 7704.72,
+    "sale_date": "10/29/13",
+    "sale_price": 282000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 234100,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 41.928721174004195
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 234100,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 41.928721174004195
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 234100,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 41.928721174004195
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 234100,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 41.928721174004195
+      }
+    },
+    "tax_rate": 0.03291208885091841,
+    "ratio": 0.8301418439716312
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000019_________M",
+    "class": "2",
+    "year_built": 1925,
+    "block": "22.10",
+    "lot": "19",
+    "street_address": "439 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2502,
+    "acreage": 0.1435,
+    "taxes": 11464.85,
+    "sale_date": "04/26/12",
+    "sale_price": 365000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 337400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 31.974420463629098
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 337400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 31.974420463629098
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 337400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 31.974420463629098
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 337400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 31.974420463629098
+      }
+    },
+    "tax_rate": 0.03397999407231773,
+    "ratio": 0.9243835616438356
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000020_________M",
+    "class": "2",
+    "year_built": 1960,
+    "block": "22.10",
+    "lot": "20",
+    "street_address": "441 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 988,
+    "acreage": 0.1435,
+    "taxes": 5674.66,
+    "sale_date": "11/30/94",
+    "sale_price": 82900,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 167000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 80.97165991902834
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 167000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 80.97165991902834
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 167000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 80.97165991902834
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 167000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 80.97165991902834
+      }
+    },
+    "tax_rate": 0.033979999999999996,
+    "ratio": 2.0144752714113388
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000021_________M",
+    "class": "2",
+    "year_built": 1925,
+    "block": "22.10",
+    "lot": "21",
+    "street_address": "443 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1404,
+    "acreage": 0.1435,
+    "taxes": 7485.79,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 220300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.98005698005698
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 220300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.98005698005698
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 220300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.98005698005698
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 220300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.98005698005698
+      }
+    },
+    "tax_rate": 0.033979981842941445
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000022_________M",
+    "class": "2",
+    "year_built": 1925,
+    "block": "22.10",
+    "lot": "22",
+    "street_address": "445 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1584,
+    "acreage": 0.1435,
+    "taxes": 7162.99,
+    "sale_date": "08/03/12",
+    "sale_price": 155000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.505050505050505
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.505050505050505
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.505050505050505
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 50.505050505050505
+      }
+    },
+    "tax_rate": 0.0339800284629981,
+    "ratio": 1.36
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000023_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.10",
+    "lot": "23",
+    "street_address": "447 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 832,
+    "acreage": 0.1435,
+    "taxes": 5446.99,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 160300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 96.15384615384616
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 160300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 96.15384615384616
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 160300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 96.15384615384616
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 160300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 96.15384615384616
+      }
+    },
+    "tax_rate": 0.03397997504678727
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000024_________M",
+    "class": "2",
+    "year_built": 1956,
+    "block": "22.10",
+    "lot": "24",
+    "street_address": "449 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1296,
+    "acreage": 0.1435,
+    "taxes": 6914.43,
+    "sale_date": "09/02/04",
+    "sale_price": 255000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 218200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 61.72839506172839
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 218200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 61.72839506172839
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 218200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 61.72839506172839
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 218200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 61.72839506172839
+      }
+    },
+    "tax_rate": 0.03168849679193401,
+    "ratio": 0.855686274509804
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000025_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.10",
+    "lot": "25",
+    "street_address": "451 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 982,
+    "acreage": 0.1435,
+    "taxes": 6252.32,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 81.46639511201629
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 81.46639511201629
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 81.46639511201629
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 81.46639511201629
+      }
+    },
+    "tax_rate": 0.033979999999999996
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000026_________M",
+    "class": "2",
+    "year_built": 1992,
+    "block": "22.10",
+    "lot": "26",
+    "street_address": "453 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2060,
+    "acreage": 0.1435,
+    "taxes": 9334.31,
+    "tax_records": {
+      "2014": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 274700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 38.349514563106794
+      },
+      "2013": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 274700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 38.349514563106794
+      },
+      "2012": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 274700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 38.349514563106794
+      },
+      "2011": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 274700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 38.349514563106794
+      }
+    },
+    "tax_rate": 0.033980014561339644
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__1000027_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.10",
+    "lot": "27",
+    "street_address": "455 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1120,
+    "acreage": 0.12,
+    "taxes": 5977.08,
+    "sale_date": "07/24/08",
+    "sale_price": 190000,
+    "tax_records": {
+      "2014": {
+        "lnd": 78700,
+        "imp": 78700,
+        "exp": null,
+        "ass": 175900,
+        "lnd_psqf": 655833.3333333334,
+        "imp_psqf": 70.26785714285714
+      },
+      "2013": {
+        "lnd": 78700,
+        "imp": 78700,
+        "exp": null,
+        "ass": 175900,
+        "lnd_psqf": 655833.3333333334,
+        "imp_psqf": 70.26785714285714
+      },
+      "2012": {
+        "lnd": 78700,
+        "imp": 78700,
+        "exp": null,
+        "ass": 175900,
+        "lnd_psqf": 655833.3333333334,
+        "imp_psqf": 70.26785714285714
+      },
+      "2011": {
+        "lnd": 78700,
+        "imp": 78700,
+        "exp": null,
+        "ass": 175900,
+        "lnd_psqf": 655833.3333333334,
+        "imp_psqf": 70.26785714285714
+      }
+    },
+    "tax_rate": 0.033979988629903354,
+    "ratio": 0.9257894736842105
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900001_________M",
+    "class": "2",
+    "year_built": 1935,
+    "block": "22.09",
+    "lot": "1",
+    "street_address": "200 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1034,
+    "acreage": 0.2152,
+    "taxes": 6045.04,
+    "tax_records": {
+      "2014": {
+        "lnd": 79100,
+        "imp": 79100,
+        "exp": null,
+        "ass": 177900,
+        "lnd_psqf": 367565.05576208176,
+        "imp_psqf": 76.4990328820116
+      },
+      "2013": {
+        "lnd": 79100,
+        "imp": 79100,
+        "exp": null,
+        "ass": 177900,
+        "lnd_psqf": 367565.05576208176,
+        "imp_psqf": 76.4990328820116
+      },
+      "2012": {
+        "lnd": 79100,
+        "imp": 79100,
+        "exp": null,
+        "ass": 177900,
+        "lnd_psqf": 367565.05576208176,
+        "imp_psqf": 76.4990328820116
+      },
+      "2011": {
+        "lnd": 79100,
+        "imp": 79100,
+        "exp": null,
+        "ass": 177900,
+        "lnd_psqf": 367565.05576208176,
+        "imp_psqf": 76.4990328820116
+      }
+    },
+    "tax_rate": 0.03397998875772906
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900002_________M",
+    "class": "2",
+    "year_built": 1936,
+    "block": "22.09",
+    "lot": "2",
+    "street_address": "204 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1080,
+    "acreage": 0.1435,
+    "taxes": 6313.49,
+    "sale_date": "11/22/04",
+    "sale_price": 169500,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 185800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.07407407407408
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 185800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.07407407407408
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 185800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.07407407407408
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 185800,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.07407407407408
+      }
+    },
+    "tax_rate": 0.03398003229278794,
+    "ratio": 1.096165191740413
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900003_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "3",
+    "street_address": "208 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1506,
+    "acreage": 0.2152,
+    "taxes": 7326.09,
+    "tax_records": {
+      "2014": {
+        "lnd": 86300,
+        "imp": 86300,
+        "exp": null,
+        "ass": 215600,
+        "lnd_psqf": 401022.30483271374,
+        "imp_psqf": 57.30411686586985
+      },
+      "2013": {
+        "lnd": 86300,
+        "imp": 86300,
+        "exp": null,
+        "ass": 215600,
+        "lnd_psqf": 401022.30483271374,
+        "imp_psqf": 57.30411686586985
+      },
+      "2012": {
+        "lnd": 86300,
+        "imp": 86300,
+        "exp": null,
+        "ass": 215600,
+        "lnd_psqf": 401022.30483271374,
+        "imp_psqf": 57.30411686586985
+      },
+      "2011": {
+        "lnd": 86300,
+        "imp": 86300,
+        "exp": null,
+        "ass": 215600,
+        "lnd_psqf": 401022.30483271374,
+        "imp_psqf": 57.30411686586985
+      }
+    },
+    "tax_rate": 0.03398000927643785
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900004_________M",
+    "class": "2",
+    "year_built": 1927,
+    "block": "22.09",
+    "lot": "4",
+    "street_address": "210 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2202,
+    "acreage": 0.2124,
+    "taxes": 8433.83,
+    "tax_records": {
+      "2014": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 248200,
+        "lnd_psqf": 382768.3615819209,
+        "imp_psqf": 36.920980926430516
+      },
+      "2013": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 248200,
+        "lnd_psqf": 382768.3615819209,
+        "imp_psqf": 36.920980926430516
+      },
+      "2012": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 248200,
+        "lnd_psqf": 382768.3615819209,
+        "imp_psqf": 36.920980926430516
+      },
+      "2011": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 248200,
+        "lnd_psqf": 382768.3615819209,
+        "imp_psqf": 36.920980926430516
+      }
+    },
+    "tax_rate": 0.033979975825946813
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900005_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "5",
+    "street_address": "422 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1965,
+    "acreage": 0.2984,
+    "taxes": 8299.37,
+    "tax_records": {
+      "2014": {
+        "lnd": 88900,
+        "imp": 88900,
+        "exp": null,
+        "ass": 251600,
+        "lnd_psqf": 297922.25201072387,
+        "imp_psqf": 45.24173027989822
+      },
+      "2013": {
+        "lnd": 88900,
+        "imp": 88900,
+        "exp": null,
+        "ass": 251600,
+        "lnd_psqf": 297922.25201072387,
+        "imp_psqf": 45.24173027989822
+      },
+      "2012": {
+        "lnd": 88900,
+        "imp": 88900,
+        "exp": null,
+        "ass": 251600,
+        "lnd_psqf": 297922.25201072387,
+        "imp_psqf": 45.24173027989822
+      },
+      "2011": {
+        "lnd": 88900,
+        "imp": 88900,
+        "exp": null,
+        "ass": 251600,
+        "lnd_psqf": 297922.25201072387,
+        "imp_psqf": 45.24173027989822
+      }
+    },
+    "tax_rate": 0.03298636724960255
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900006_________M",
+    "class": "2",
+    "year_built": 1970,
+    "block": "22.09",
+    "lot": "6",
+    "street_address": "424 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1760,
+    "acreage": 0.1435,
+    "taxes": 8467.81,
+    "sale_date": "02/22/13",
+    "sale_price": 235000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 249200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 249200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 249200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 249200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      }
+    },
+    "tax_rate": 0.03397997592295345,
+    "ratio": 1.0604255319148936
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900007_________M",
+    "class": "2",
+    "year_built": 1925,
+    "block": "22.09",
+    "lot": "7",
+    "street_address": "426 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1539,
+    "acreage": 0.1435,
+    "taxes": 7995.49,
+    "sale_date": "03/18/11",
+    "sale_price": 275000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 235300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 51.98180636777128
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 235300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 51.98180636777128
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 235300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 51.98180636777128
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 235300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 51.98180636777128
+      }
+    },
+    "tax_rate": 0.03397998300042499,
+    "ratio": 0.8556363636363636
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900008_________M",
+    "class": "2",
+    "year_built": 1940,
+    "block": "22.09",
+    "lot": "8",
+    "street_address": "428 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1646,
+    "acreage": 0.1435,
+    "taxes": 7767.83,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.60267314702308
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.60267314702308
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.60267314702308
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 228600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.60267314702308
+      }
+    },
+    "tax_rate": 0.03398000874890639
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900009_________M",
+    "class": "2",
+    "year_built": 1925,
+    "block": "22.09",
+    "lot": "9",
+    "street_address": "430 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2834,
+    "acreage": 0.1435,
+    "taxes": 10693.51,
+    "sale_date": "05/24/13",
+    "sale_price": 314000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 314700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 28.228652081863093
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 314700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 28.228652081863093
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 314700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 28.228652081863093
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 314700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 28.228652081863093
+      }
+    },
+    "tax_rate": 0.033980012710517954,
+    "ratio": 1.0022292993630573
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900010_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "10",
+    "street_address": "432 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1651,
+    "acreage": 0.1435,
+    "taxes": 6734.34,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 212900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.45548152634767
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 212900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.45548152634767
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 212900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.45548152634767
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 212900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 48.45548152634767
+      }
+    },
+    "tax_rate": 0.03163147017379051
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900011_________M",
+    "class": "2",
+    "year_built": 1945,
+    "block": "22.09",
+    "lot": "11",
+    "street_address": "434 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1008,
+    "acreage": 0.1435,
+    "taxes": 4397.01,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 129400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 129400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 129400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 129400,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      }
+    },
+    "tax_rate": 0.03397998454404946
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900012_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "12",
+    "street_address": "436 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1776,
+    "acreage": 0.1435,
+    "taxes": 7669.29,
+    "sale_date": "12/09/11",
+    "sale_price": 270000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 225700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.04504504504504
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 225700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.04504504504504
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 225700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.04504504504504
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 225700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.04504504504504
+      }
+    },
+    "tax_rate": 0.03398001772264067,
+    "ratio": 0.835925925925926
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900013_________M",
+    "class": "2",
+    "year_built": 1970,
+    "block": "22.09",
+    "lot": "13",
+    "street_address": "438 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1820,
+    "acreage": 0.1435,
+    "taxes": 7893.55,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 232300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.956043956043956
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 232300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.956043956043956
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 232300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.956043956043956
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 232300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.956043956043956
+      }
+    },
+    "tax_rate": 0.033979982780886785
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900014_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "14",
+    "street_address": "440 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1833,
+    "acreage": 0.1435,
+    "taxes": 7020.27,
+    "sale_date": "07/22/05",
+    "sale_price": 260000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.6442989634479
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.6442989634479
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.6442989634479
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 224600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 43.6442989634479
+      }
+    },
+    "tax_rate": 0.033980009680542114,
+    "ratio": 0.7946153846153846
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900015_________M",
+    "class": "2",
+    "year_built": 1968,
+    "block": "22.09",
+    "lot": "15",
+    "street_address": "442 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 975,
+    "acreage": 0.1435,
+    "taxes": 5968.34,
+    "sale_date": "02/22/13",
+    "sale_price": 131000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 155000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 82.05128205128206
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 183000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 82.05128205128206
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 183000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 82.05128205128206
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 183000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 82.05128205128206
+      }
+    },
+    "tax_rate": 0.03850541935483871,
+    "ratio": 1.183206106870229
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900016_________M",
+    "class": "2",
+    "year_built": 1968,
+    "block": "22.09",
+    "lot": "16",
+    "street_address": "444 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1512,
+    "acreage": 0.1435,
+    "taxes": 7074.63,
+    "sale_date": "08/29/05",
+    "sale_price": 220000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.91005291005291
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.91005291005291
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.91005291005291
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 208200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 52.91005291005291
+      }
+    },
+    "tax_rate": 0.0339799711815562,
+    "ratio": 0.9463636363636364
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900017_________M",
+    "class": "2",
+    "year_built": 1910,
+    "block": "22.09",
+    "lot": "17",
+    "street_address": "446 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1072,
+    "acreage": 0.1435,
+    "taxes": 5970.29,
+    "sale_date": "08/26/11",
+    "sale_price": 186500,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.6268656716418
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.6268656716418
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.6268656716418
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 74.6268656716418
+      }
+    },
+    "tax_rate": 0.03398002276607854,
+    "ratio": 0.9420911528150134
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900018_________M",
+    "class": "2",
+    "year_built": 1910,
+    "block": "22.09",
+    "lot": "18",
+    "street_address": "448 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1964,
+    "acreage": 0.4534,
+    "taxes": 8574.61,
+    "tax_records": {
+      "2014": {
+        "lnd": 98300,
+        "imp": 98300,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 216806.35200705778,
+        "imp_psqf": 50.05091649694501
+      },
+      "2013": {
+        "lnd": 98300,
+        "imp": 98300,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 216806.35200705778,
+        "imp_psqf": 50.05091649694501
+      },
+      "2012": {
+        "lnd": 98300,
+        "imp": 98300,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 216806.35200705778,
+        "imp_psqf": 50.05091649694501
+      },
+      "2011": {
+        "lnd": 98300,
+        "imp": 98300,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 216806.35200705778,
+        "imp_psqf": 50.05091649694501
+      }
+    },
+    "tax_rate": 0.033017366191759726
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900021_________M",
+    "class": "1",
+    "year_built": 0,
+    "block": "22.09",
+    "lot": "21",
+    "street_address": "E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 0,
+    "acreage": 0.0272,
+    "taxes": 10.19,
+    "sale_date": "03/07/01",
+    "sale_price": 140000,
+    "tax_records": {
+      "2014": {
+        "lnd": 300,
+        "imp": 300,
+        "exp": null,
+        "ass": 300,
+        "lnd_psqf": 11029.411764705883,
+        "imp_psqf": null
+      },
+      "2013": {
+        "lnd": 300,
+        "imp": 300,
+        "exp": null,
+        "ass": 300,
+        "lnd_psqf": 11029.411764705883,
+        "imp_psqf": null
+      },
+      "2012": {
+        "lnd": 300,
+        "imp": 300,
+        "exp": null,
+        "ass": 300,
+        "lnd_psqf": 11029.411764705883,
+        "imp_psqf": null
+      },
+      "2011": {
+        "lnd": 300,
+        "imp": 300,
+        "exp": null,
+        "ass": 300,
+        "lnd_psqf": 11029.411764705883,
+        "imp_psqf": null
+      }
+    },
+    "tax_rate": 0.033966666666666666,
+    "ratio": 0.002142857142857143
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900022_________M",
+    "class": "1",
+    "year_built": 0,
+    "block": "22.09",
+    "lot": "22",
+    "street_address": "E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 0,
+    "acreage": 0.0482,
+    "taxes": 587.85,
+    "tax_records": {
+      "2014": {
+        "lnd": 17300,
+        "imp": 17300,
+        "exp": null,
+        "ass": 17300,
+        "lnd_psqf": 358921.16182572616,
+        "imp_psqf": null
+      },
+      "2013": {
+        "lnd": 17300,
+        "imp": 17300,
+        "exp": null,
+        "ass": 17300,
+        "lnd_psqf": 358921.16182572616,
+        "imp_psqf": null
+      },
+      "2012": {
+        "lnd": 17300,
+        "imp": 17300,
+        "exp": null,
+        "ass": 17300,
+        "lnd_psqf": 358921.16182572616,
+        "imp_psqf": null
+      },
+      "2011": {
+        "lnd": 17300,
+        "imp": 17300,
+        "exp": null,
+        "ass": 17300,
+        "lnd_psqf": 358921.16182572616,
+        "imp_psqf": null
+      }
+    },
+    "tax_rate": 0.03397976878612717
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900023_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "23",
+    "street_address": "445 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1678,
+    "acreage": 0.1435,
+    "taxes": 7455.21,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219400,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.29201430274136
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219400,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.29201430274136
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219400,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.29201430274136
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219400,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.29201430274136
+      }
+    },
+    "tax_rate": 0.03397999088422972
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900024_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "24",
+    "street_address": "443 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1427,
+    "acreage": 0.1435,
+    "taxes": 7431.43,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 218700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.25858444288718
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 218700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.25858444288718
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 218700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.25858444288718
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 218700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.25858444288718
+      }
+    },
+    "tax_rate": 0.03398001828989483
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900025_________M",
+    "class": "2",
+    "year_built": 1940,
+    "block": "22.09",
+    "lot": "25",
+    "street_address": "441 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1092,
+    "acreage": 0.1435,
+    "taxes": 5443.59,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 160200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 69.59706959706959
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 160200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 69.59706959706959
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 160200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 69.59706959706959
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 160200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 69.59706959706959
+      }
+    },
+    "tax_rate": 0.03397996254681648
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900026_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "26",
+    "street_address": "439 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1456,
+    "acreage": 0.1435,
+    "taxes": 7513.0,
+    "sale_date": "10/14/98",
+    "sale_price": 70000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 221100,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 52.1978021978022
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 52.1978021978022
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 52.1978021978022
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 52.1978021978022
+      }
+    },
+    "tax_rate": 0.033980099502487565,
+    "ratio": 3.1585714285714284
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900027_________M",
+    "class": "2",
+    "year_built": 1921,
+    "block": "22.09",
+    "lot": "27",
+    "street_address": "437 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2176,
+    "acreage": 0.1435,
+    "taxes": 9232.37,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 271700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 34.9264705882353
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 271700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 34.9264705882353
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 271700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 34.9264705882353
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 271700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 34.9264705882353
+      }
+    },
+    "tax_rate": 0.03398001472211999
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900028_________M",
+    "class": "2",
+    "year_built": 1954,
+    "block": "22.09",
+    "lot": "28",
+    "street_address": "435 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 952,
+    "acreage": 0.1435,
+    "taxes": 6530.95,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 79.83193277310924
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 79.83193277310924
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 79.83193277310924
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 192200,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 79.83193277310924
+      }
+    },
+    "tax_rate": 0.03397996878251821
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900029_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.09",
+    "lot": "29",
+    "street_address": "433 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1679,
+    "acreage": 0.1435,
+    "taxes": 8114.43,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 238800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.26503871351995
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 238800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.26503871351995
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 238800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.26503871351995
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 238800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 45.26503871351995
+      }
+    },
+    "tax_rate": 0.033980025125628144
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900030_________M",
+    "class": "2",
+    "year_built": 1930,
+    "block": "22.09",
+    "lot": "30",
+    "street_address": "431 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1877,
+    "acreage": 0.1435,
+    "taxes": 7941.13,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 233700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.49014384656367
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 233700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.49014384656367
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 233700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.49014384656367
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 233700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.49014384656367
+      }
+    },
+    "tax_rate": 0.03398001711596063
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900031_________M",
+    "class": "2",
+    "year_built": 1952,
+    "block": "22.09",
+    "lot": "31",
+    "street_address": "429 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1648,
+    "acreage": 0.1435,
+    "taxes": 6890.66,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 217500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 46.116504854368934
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 217500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 46.116504854368934
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 217500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 46.116504854368934
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 217500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 46.116504854368934
+      }
+    },
+    "tax_rate": 0.03168119540229885
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900032_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "32",
+    "street_address": "427 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1516,
+    "acreage": 0.1435,
+    "taxes": 7655.71,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 225300,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 50.13192612137203
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 198800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 50.13192612137203
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 198800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 50.13192612137203
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 198800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 50.13192612137203
+      }
+    },
+    "tax_rate": 0.033980071016422544
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900033_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "33",
+    "street_address": "425 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1444,
+    "acreage": 0.1435,
+    "taxes": 7081.43,
+    "sale_date": "10/12/01",
+    "sale_price": 127000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80400,
+        "imp": 80400,
+        "exp": null,
+        "ass": 208400,
+        "lnd_psqf": 560278.7456445993,
+        "imp_psqf": 55.6786703601108
+      },
+      "2013": {
+        "lnd": 80400,
+        "imp": 80400,
+        "exp": null,
+        "ass": 208400,
+        "lnd_psqf": 560278.7456445993,
+        "imp_psqf": 55.6786703601108
+      },
+      "2012": {
+        "lnd": 80400,
+        "imp": 80400,
+        "exp": null,
+        "ass": 208400,
+        "lnd_psqf": 560278.7456445993,
+        "imp_psqf": 55.6786703601108
+      },
+      "2011": {
+        "lnd": 80400,
+        "imp": 80400,
+        "exp": null,
+        "ass": 208400,
+        "lnd_psqf": 560278.7456445993,
+        "imp_psqf": 55.6786703601108
+      }
+    },
+    "tax_rate": 0.033979990403071016,
+    "ratio": 1.6409448818897638
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0900034_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.09",
+    "lot": "34",
+    "street_address": "401 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1388,
+    "acreage": 0.1045,
+    "taxes": 6238.73,
+    "sale_date": "04/26/02",
+    "sale_price": 107500,
+    "tax_records": {
+      "2014": {
+        "lnd": 72600,
+        "imp": 72600,
+        "exp": null,
+        "ass": 183600,
+        "lnd_psqf": 694736.8421052631,
+        "imp_psqf": 52.305475504322764
+      },
+      "2013": {
+        "lnd": 72600,
+        "imp": 72600,
+        "exp": null,
+        "ass": 183600,
+        "lnd_psqf": 694736.8421052631,
+        "imp_psqf": 52.305475504322764
+      },
+      "2012": {
+        "lnd": 72600,
+        "imp": 72600,
+        "exp": null,
+        "ass": 183600,
+        "lnd_psqf": 694736.8421052631,
+        "imp_psqf": 52.305475504322764
+      },
+      "2011": {
+        "lnd": 72600,
+        "imp": 72600,
+        "exp": null,
+        "ass": 183600,
+        "lnd_psqf": 694736.8421052631,
+        "imp_psqf": 52.305475504322764
+      }
+    },
+    "tax_rate": 0.03398001089324618,
+    "ratio": 1.7079069767441861
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800001_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "1",
+    "street_address": "100 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1452,
+    "acreage": 0.1779,
+    "taxes": 7942.58,
+    "sale_date": "09/27/11",
+    "sale_price": 296600,
+    "tax_records": {
+      "2014": {
+        "lnd": 81500,
+        "imp": 81500,
+        "exp": null,
+        "ass": 241100,
+        "lnd_psqf": 458122.54075323214,
+        "imp_psqf": 56.129476584022036
+      },
+      "2013": {
+        "lnd": 81500,
+        "imp": 81500,
+        "exp": null,
+        "ass": 241100,
+        "lnd_psqf": 458122.54075323214,
+        "imp_psqf": 56.129476584022036
+      },
+      "2012": {
+        "lnd": 81500,
+        "imp": 81500,
+        "exp": null,
+        "ass": 241100,
+        "lnd_psqf": 458122.54075323214,
+        "imp_psqf": 56.129476584022036
+      },
+      "2011": {
+        "lnd": 81500,
+        "imp": 81500,
+        "exp": null,
+        "ass": 241100,
+        "lnd_psqf": 458122.54075323214,
+        "imp_psqf": 56.129476584022036
+      }
+    },
+    "tax_rate": 0.03294309415180423,
+    "ratio": 0.8128792987188133
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800002_________M",
+    "class": "2",
+    "year_built": 1910,
+    "block": "22.08",
+    "lot": "2",
+    "street_address": "102 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1320,
+    "acreage": 0.1435,
+    "taxes": 7526.58,
+    "sale_date": "09/22/03",
+    "sale_price": 270000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 221500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 60.60606060606061
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 221500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 60.60606060606061
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 221500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 60.60606060606061
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 221500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 60.60606060606061
+      }
+    },
+    "tax_rate": 0.03398004514672686,
+    "ratio": 0.8203703703703704
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800003_________M",
+    "class": "2",
+    "year_built": 1910,
+    "block": "22.08",
+    "lot": "3",
+    "street_address": "104 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2044,
+    "acreage": 0.1578,
+    "taxes": 8182.39,
+    "tax_records": {
+      "2014": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 240800,
+        "lnd_psqf": 515209.12547528517,
+        "imp_psqf": 39.77495107632094
+      },
+      "2013": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 240800,
+        "lnd_psqf": 515209.12547528517,
+        "imp_psqf": 39.77495107632094
+      },
+      "2012": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 240800,
+        "lnd_psqf": 515209.12547528517,
+        "imp_psqf": 39.77495107632094
+      },
+      "2011": {
+        "lnd": 81300,
+        "imp": 81300,
+        "exp": null,
+        "ass": 240800,
+        "lnd_psqf": 515209.12547528517,
+        "imp_psqf": 39.77495107632094
+      }
+    },
+    "tax_rate": 0.033980024916943526
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800004_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "4",
+    "street_address": "112 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1236,
+    "acreage": 0.1291,
+    "taxes": 5689.71,
+    "sale_date": "08/01/63",
+    "sale_price": 9600,
+    "tax_records": {
+      "2014": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 174800,
+        "lnd_psqf": 600309.837335399,
+        "imp_psqf": 62.702265372168284
+      },
+      "2013": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 174800,
+        "lnd_psqf": 600309.837335399,
+        "imp_psqf": 62.702265372168284
+      },
+      "2012": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 174800,
+        "lnd_psqf": 600309.837335399,
+        "imp_psqf": 62.702265372168284
+      },
+      "2011": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 174800,
+        "lnd_psqf": 600309.837335399,
+        "imp_psqf": 62.702265372168284
+      }
+    },
+    "tax_rate": 0.03254982837528604,
+    "ratio": 18.208333333333332
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800005_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "5",
+    "street_address": "114 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2018,
+    "acreage": 0.0,
+    "taxes": 7876.57,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 231800,
+        "lnd_psqf": null,
+        "imp_psqf": 39.64321110009911
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 231800,
+        "lnd_psqf": null,
+        "imp_psqf": 39.64321110009911
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 231800,
+        "lnd_psqf": null,
+        "imp_psqf": 39.64321110009911
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 231800,
+        "lnd_psqf": null,
+        "imp_psqf": 39.64321110009911
+      }
+    },
+    "tax_rate": 0.033980025884383085
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800006_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "6",
+    "street_address": "116 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1760,
+    "acreage": 0.1435,
+    "taxes": 7584.33,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 223200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 223200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 223200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 223200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 45.45454545454545
+      }
+    },
+    "tax_rate": 0.03397997311827957
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800007_________M",
+    "class": "2",
+    "year_built": 1923,
+    "block": "22.08",
+    "lot": "7",
+    "street_address": "118 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1308,
+    "acreage": 0.1435,
+    "taxes": 6150.38,
+    "sale_date": "05/16/07",
+    "sale_price": 241500,
+    "tax_records": {
+      "2014": {
+        "lnd": 75000,
+        "imp": 75000,
+        "exp": null,
+        "ass": 181000,
+        "lnd_psqf": 522648.08362369344,
+        "imp_psqf": 57.3394495412844
+      },
+      "2013": {
+        "lnd": 75000,
+        "imp": 75000,
+        "exp": null,
+        "ass": 181000,
+        "lnd_psqf": 522648.08362369344,
+        "imp_psqf": 57.3394495412844
+      },
+      "2012": {
+        "lnd": 75000,
+        "imp": 75000,
+        "exp": null,
+        "ass": 181000,
+        "lnd_psqf": 522648.08362369344,
+        "imp_psqf": 57.3394495412844
+      },
+      "2011": {
+        "lnd": 75000,
+        "imp": 75000,
+        "exp": null,
+        "ass": 181000,
+        "lnd_psqf": 522648.08362369344,
+        "imp_psqf": 57.3394495412844
+      }
+    },
+    "tax_rate": 0.03398,
+    "ratio": 0.7494824016563147
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800008_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "8",
+    "street_address": "120 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1735,
+    "acreage": 0.1435,
+    "taxes": 7387.25,
+    "sale_date": "12/14/98",
+    "sale_price": 86500,
+    "tax_records": {
+      "2014": {
+        "lnd": 75400,
+        "imp": 75400,
+        "exp": null,
+        "ass": 217400,
+        "lnd_psqf": 525435.5400696865,
+        "imp_psqf": 43.45821325648415
+      },
+      "2013": {
+        "lnd": 75400,
+        "imp": 75400,
+        "exp": null,
+        "ass": 217400,
+        "lnd_psqf": 525435.5400696865,
+        "imp_psqf": 43.45821325648415
+      },
+      "2012": {
+        "lnd": 75400,
+        "imp": 75400,
+        "exp": null,
+        "ass": 217400,
+        "lnd_psqf": 525435.5400696865,
+        "imp_psqf": 43.45821325648415
+      },
+      "2011": {
+        "lnd": 75400,
+        "imp": 75400,
+        "exp": null,
+        "ass": 217400,
+        "lnd_psqf": 525435.5400696865,
+        "imp_psqf": 43.45821325648415
+      }
+    },
+    "tax_rate": 0.03397999080036799,
+    "ratio": 2.5132947976878612
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800009_________M",
+    "class": "2",
+    "year_built": 1915,
+    "block": "22.08",
+    "lot": "9",
+    "street_address": "419 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1686,
+    "acreage": 0.2439,
+    "taxes": 9069.26,
+    "sale_date": "07/30/07",
+    "sale_price": 329900,
+    "tax_records": {
+      "2014": {
+        "lnd": 93500,
+        "imp": 93500,
+        "exp": null,
+        "ass": 266900,
+        "lnd_psqf": 383353.8335383354,
+        "imp_psqf": 55.456702253855276
+      },
+      "2013": {
+        "lnd": 93500,
+        "imp": 93500,
+        "exp": null,
+        "ass": 266900,
+        "lnd_psqf": 383353.8335383354,
+        "imp_psqf": 55.456702253855276
+      },
+      "2012": {
+        "lnd": 93500,
+        "imp": 93500,
+        "exp": null,
+        "ass": 266900,
+        "lnd_psqf": 383353.8335383354,
+        "imp_psqf": 55.456702253855276
+      },
+      "2011": {
+        "lnd": 93500,
+        "imp": 93500,
+        "exp": null,
+        "ass": 266900,
+        "lnd_psqf": 383353.8335383354,
+        "imp_psqf": 55.456702253855276
+      }
+    },
+    "tax_rate": 0.03397999250655676,
+    "ratio": 0.809033040315247
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800010_________M",
+    "class": "2",
+    "year_built": 1922,
+    "block": "22.08",
+    "lot": "10",
+    "street_address": "421 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1924,
+    "acreage": 0.1584,
+    "taxes": 10295.95,
+    "sale_date": "01/11/13",
+    "sale_price": 375000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80900,
+        "imp": 80900,
+        "exp": null,
+        "ass": 303000,
+        "lnd_psqf": 510732.32323232316,
+        "imp_psqf": 42.04781704781705
+      },
+      "2013": {
+        "lnd": 80900,
+        "imp": 80900,
+        "exp": null,
+        "ass": 252400,
+        "lnd_psqf": 510732.32323232316,
+        "imp_psqf": 42.04781704781705
+      },
+      "2012": {
+        "lnd": 80900,
+        "imp": 80900,
+        "exp": null,
+        "ass": 252400,
+        "lnd_psqf": 510732.32323232316,
+        "imp_psqf": 42.04781704781705
+      },
+      "2011": {
+        "lnd": 80900,
+        "imp": 80900,
+        "exp": null,
+        "ass": 252400,
+        "lnd_psqf": 510732.32323232316,
+        "imp_psqf": 42.04781704781705
+      }
+    },
+    "tax_rate": 0.03398003300330033,
+    "ratio": 0.808
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800011_________M",
+    "class": "2",
+    "year_built": 1956,
+    "block": "22.08",
+    "lot": "11",
+    "street_address": "423 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1016,
+    "acreage": 0.1423,
+    "taxes": 6408.63,
+    "tax_records": {
+      "2014": {
+        "lnd": 80500,
+        "imp": 80500,
+        "exp": null,
+        "ass": 188600,
+        "lnd_psqf": 565706.2543921293,
+        "imp_psqf": 79.23228346456693
+      },
+      "2013": {
+        "lnd": 80500,
+        "imp": 80500,
+        "exp": null,
+        "ass": 188600,
+        "lnd_psqf": 565706.2543921293,
+        "imp_psqf": 79.23228346456693
+      },
+      "2012": {
+        "lnd": 80500,
+        "imp": 80500,
+        "exp": null,
+        "ass": 188600,
+        "lnd_psqf": 565706.2543921293,
+        "imp_psqf": 79.23228346456693
+      },
+      "2011": {
+        "lnd": 80500,
+        "imp": 80500,
+        "exp": null,
+        "ass": 188600,
+        "lnd_psqf": 565706.2543921293,
+        "imp_psqf": 79.23228346456693
+      }
+    },
+    "tax_rate": 0.033980010604453874
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800012_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "12",
+    "street_address": "425 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1304,
+    "acreage": 0.1435,
+    "taxes": 7533.37,
+    "tax_records": {
+      "2014": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 221700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 60.58282208588957
+      },
+      "2013": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 221700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 60.58282208588957
+      },
+      "2012": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 221700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 60.58282208588957
+      },
+      "2011": {
+        "lnd": 79000,
+        "imp": 79000,
+        "exp": null,
+        "ass": 221700,
+        "lnd_psqf": 550522.6480836237,
+        "imp_psqf": 60.58282208588957
+      }
+    },
+    "tax_rate": 0.03398001804239964
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800013_________M",
+    "class": "2",
+    "year_built": 1923,
+    "block": "22.08",
+    "lot": "13",
+    "street_address": "427 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1584,
+    "acreage": 0.1102,
+    "taxes": 8569.78,
+    "sale_date": "06/21/04",
+    "sale_price": 195000,
+    "tax_records": {
+      "2014": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 252200,
+        "lnd_psqf": 703266.7876588021,
+        "imp_psqf": 48.926767676767675
+      },
+      "2013": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 232500,
+        "lnd_psqf": 703266.7876588021,
+        "imp_psqf": 48.926767676767675
+      },
+      "2012": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 232500,
+        "lnd_psqf": 703266.7876588021,
+        "imp_psqf": 48.926767676767675
+      },
+      "2011": {
+        "lnd": 77500,
+        "imp": 77500,
+        "exp": null,
+        "ass": 232500,
+        "lnd_psqf": 703266.7876588021,
+        "imp_psqf": 48.926767676767675
+      }
+    },
+    "tax_rate": 0.03398009516256939,
+    "ratio": 1.2933333333333332
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800014_________M",
+    "class": "2",
+    "year_built": 1975,
+    "block": "22.08",
+    "lot": "14",
+    "street_address": "429 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1484,
+    "acreage": 0.0941,
+    "taxes": 7264.93,
+    "sale_date": "02/28/97",
+    "sale_price": 64000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 213800,
+        "lnd_psqf": 807651.4346439957,
+        "imp_psqf": 51.21293800539083
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 213800,
+        "lnd_psqf": 807651.4346439957,
+        "imp_psqf": 51.21293800539083
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 213800,
+        "lnd_psqf": 807651.4346439957,
+        "imp_psqf": 51.21293800539083
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 213800,
+        "lnd_psqf": 807651.4346439957,
+        "imp_psqf": 51.21293800539083
+      }
+    },
+    "tax_rate": 0.033980028063610855,
+    "ratio": 3.340625
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800015_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "15",
+    "street_address": "431 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1560,
+    "acreage": 0.1011,
+    "taxes": 6768.81,
+    "sale_date": "08/01/97",
+    "sale_price": 125000,
+    "tax_records": {
+      "2014": {
+        "lnd": 77800,
+        "imp": 77800,
+        "exp": null,
+        "ass": 199200,
+        "lnd_psqf": 769535.1137487637,
+        "imp_psqf": 49.87179487179487
+      },
+      "2013": {
+        "lnd": 77800,
+        "imp": 77800,
+        "exp": null,
+        "ass": 199200,
+        "lnd_psqf": 769535.1137487637,
+        "imp_psqf": 49.87179487179487
+      },
+      "2012": {
+        "lnd": 77800,
+        "imp": 77800,
+        "exp": null,
+        "ass": 199200,
+        "lnd_psqf": 769535.1137487637,
+        "imp_psqf": 49.87179487179487
+      },
+      "2011": {
+        "lnd": 77800,
+        "imp": 77800,
+        "exp": null,
+        "ass": 199200,
+        "lnd_psqf": 769535.1137487637,
+        "imp_psqf": 49.87179487179487
+      }
+    },
+    "tax_rate": 0.033979969879518075,
+    "ratio": 1.5936
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800016_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "16",
+    "street_address": "426 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 864,
+    "acreage": 0.0,
+    "taxes": 5256.71,
+    "sale_date": "10/06/00",
+    "sale_price": 91000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76700,
+        "imp": 76700,
+        "exp": null,
+        "ass": 154700,
+        "lnd_psqf": null,
+        "imp_psqf": 88.77314814814815
+      },
+      "2013": {
+        "lnd": 76700,
+        "imp": 76700,
+        "exp": null,
+        "ass": 154700,
+        "lnd_psqf": null,
+        "imp_psqf": 88.77314814814815
+      },
+      "2012": {
+        "lnd": 76700,
+        "imp": 76700,
+        "exp": null,
+        "ass": 154700,
+        "lnd_psqf": null,
+        "imp_psqf": 88.77314814814815
+      },
+      "2011": {
+        "lnd": 76700,
+        "imp": 76700,
+        "exp": null,
+        "ass": 154700,
+        "lnd_psqf": null,
+        "imp_psqf": 88.77314814814815
+      }
+    },
+    "tax_rate": 0.03398002585649645,
+    "ratio": 1.7
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800017_________M",
+    "class": "2",
+    "year_built": 1955,
+    "block": "22.08",
+    "lot": "17",
+    "street_address": "428 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1421,
+    "acreage": 0.1504,
+    "taxes": 7686.27,
+    "sale_date": "11/19/07",
+    "sale_price": 270000,
+    "tax_records": {
+      "2014": {
+        "lnd": 78400,
+        "imp": 78400,
+        "exp": null,
+        "ass": 226200,
+        "lnd_psqf": 521276.59574468085,
+        "imp_psqf": 55.172413793103445
+      },
+      "2013": {
+        "lnd": 78400,
+        "imp": 78400,
+        "exp": null,
+        "ass": 226200,
+        "lnd_psqf": 521276.59574468085,
+        "imp_psqf": 55.172413793103445
+      },
+      "2012": {
+        "lnd": 78400,
+        "imp": 78400,
+        "exp": null,
+        "ass": 226200,
+        "lnd_psqf": 521276.59574468085,
+        "imp_psqf": 55.172413793103445
+      },
+      "2011": {
+        "lnd": 78400,
+        "imp": 78400,
+        "exp": null,
+        "ass": 226200,
+        "lnd_psqf": 521276.59574468085,
+        "imp_psqf": 55.172413793103445
+      }
+    },
+    "tax_rate": 0.03397997347480106,
+    "ratio": 0.8377777777777777
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800017__01_____M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "17.01",
+    "street_address": "430 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2112,
+    "acreage": 0.1504,
+    "taxes": 9164.41,
+    "sale_date": "10/28/94",
+    "sale_price": 116500,
+    "tax_records": {
+      "2014": {
+        "lnd": 77000,
+        "imp": 77000,
+        "exp": null,
+        "ass": 269700,
+        "lnd_psqf": 511968.08510638296,
+        "imp_psqf": 36.458333333333336
+      },
+      "2013": {
+        "lnd": 77000,
+        "imp": 77000,
+        "exp": null,
+        "ass": 269700,
+        "lnd_psqf": 511968.08510638296,
+        "imp_psqf": 36.458333333333336
+      },
+      "2012": {
+        "lnd": 77000,
+        "imp": 77000,
+        "exp": null,
+        "ass": 269700,
+        "lnd_psqf": 511968.08510638296,
+        "imp_psqf": 36.458333333333336
+      },
+      "2011": {
+        "lnd": 77000,
+        "imp": 77000,
+        "exp": null,
+        "ass": 269700,
+        "lnd_psqf": 511968.08510638296,
+        "imp_psqf": 36.458333333333336
+      }
+    },
+    "tax_rate": 0.03398001483129403,
+    "ratio": 2.315021459227468
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800018_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "18",
+    "street_address": "432 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1314,
+    "acreage": 0.1366,
+    "taxes": 7645.5,
+    "sale_date": "09/11/09",
+    "sale_price": 275000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 556368.9604685212,
+        "imp_psqf": 57.83866057838661
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 556368.9604685212,
+        "imp_psqf": 57.83866057838661
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 556368.9604685212,
+        "imp_psqf": 57.83866057838661
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 556368.9604685212,
+        "imp_psqf": 57.83866057838661
+      }
+    },
+    "tax_rate": 0.03398,
+    "ratio": 0.8181818181818182
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800019_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "19",
+    "street_address": "434 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1147,
+    "acreage": 0.1228,
+    "taxes": 5780.0,
+    "sale_date": "07/03/01",
+    "sale_price": 65000,
+    "tax_records": {
+      "2014": {
+        "lnd": 74600,
+        "imp": 74600,
+        "exp": null,
+        "ass": 170100,
+        "lnd_psqf": 607491.8566775244,
+        "imp_psqf": 65.03923278116827
+      },
+      "2013": {
+        "lnd": 74600,
+        "imp": 74600,
+        "exp": null,
+        "ass": 170100,
+        "lnd_psqf": 607491.8566775244,
+        "imp_psqf": 65.03923278116827
+      },
+      "2012": {
+        "lnd": 74600,
+        "imp": 74600,
+        "exp": null,
+        "ass": 170100,
+        "lnd_psqf": 607491.8566775244,
+        "imp_psqf": 65.03923278116827
+      },
+      "2011": {
+        "lnd": 74600,
+        "imp": 74600,
+        "exp": null,
+        "ass": 170100,
+        "lnd_psqf": 607491.8566775244,
+        "imp_psqf": 65.03923278116827
+      }
+    },
+    "tax_rate": 0.03398001175778954,
+    "ratio": 2.616923076923077
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800020_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.08",
+    "lot": "20",
+    "street_address": "436 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1639,
+    "acreage": 0.1148,
+    "taxes": 7162.99,
+    "tax_records": {
+      "2014": {
+        "lnd": 73600,
+        "imp": 73600,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 641114.9825783973,
+        "imp_psqf": 44.90543014032947
+      },
+      "2013": {
+        "lnd": 73600,
+        "imp": 73600,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 641114.9825783973,
+        "imp_psqf": 44.90543014032947
+      },
+      "2012": {
+        "lnd": 73600,
+        "imp": 73600,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 641114.9825783973,
+        "imp_psqf": 44.90543014032947
+      },
+      "2011": {
+        "lnd": 73600,
+        "imp": 73600,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 641114.9825783973,
+        "imp_psqf": 44.90543014032947
+      }
+    },
+    "tax_rate": 0.0339800284629981
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800021_________M",
+    "class": "2",
+    "year_built": 1956,
+    "block": "22.08",
+    "lot": "21",
+    "street_address": "438 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1312,
+    "acreage": 0.1033,
+    "taxes": 7492.6,
+    "sale_date": "11/06/08",
+    "sale_price": 256000,
+    "tax_records": {
+      "2014": {
+        "lnd": 72200,
+        "imp": 72200,
+        "exp": null,
+        "ass": 220500,
+        "lnd_psqf": 698935.1403678606,
+        "imp_psqf": 55.03048780487805
+      },
+      "2013": {
+        "lnd": 72200,
+        "imp": 72200,
+        "exp": null,
+        "ass": 220500,
+        "lnd_psqf": 698935.1403678606,
+        "imp_psqf": 55.03048780487805
+      },
+      "2012": {
+        "lnd": 72200,
+        "imp": 72200,
+        "exp": null,
+        "ass": 220500,
+        "lnd_psqf": 698935.1403678606,
+        "imp_psqf": 55.03048780487805
+      },
+      "2011": {
+        "lnd": 72200,
+        "imp": 72200,
+        "exp": null,
+        "ass": 220500,
+        "lnd_psqf": 698935.1403678606,
+        "imp_psqf": 55.03048780487805
+      }
+    },
+    "tax_rate": 0.03398004535147393,
+    "ratio": 0.861328125
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800022_________M",
+    "class": "2",
+    "year_built": 1962,
+    "block": "22.08",
+    "lot": "22",
+    "street_address": "440 E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1380,
+    "acreage": 0.0803,
+    "taxes": 7162.99,
+    "sale_date": "03/29/96",
+    "sale_price": 90000,
+    "tax_records": {
+      "2014": {
+        "lnd": 70800,
+        "imp": 70800,
+        "exp": null,
+        "ass": 210800,
+        "lnd_psqf": 881693.6488169365,
+        "imp_psqf": 51.30434782608695
+      },
+      "2013": {
+        "lnd": 70800,
+        "imp": 70800,
+        "exp": null,
+        "ass": 205600,
+        "lnd_psqf": 881693.6488169365,
+        "imp_psqf": 51.30434782608695
+      },
+      "2012": {
+        "lnd": 70800,
+        "imp": 70800,
+        "exp": null,
+        "ass": 205600,
+        "lnd_psqf": 881693.6488169365,
+        "imp_psqf": 51.30434782608695
+      },
+      "2011": {
+        "lnd": 70800,
+        "imp": 70800,
+        "exp": null,
+        "ass": 205600,
+        "lnd_psqf": 881693.6488169365,
+        "imp_psqf": 51.30434782608695
+      }
+    },
+    "tax_rate": 0.0339800284629981,
+    "ratio": 2.3422222222222224
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0800023_________M",
+    "class": "1",
+    "year_built": 0,
+    "block": "22.08",
+    "lot": "23",
+    "street_address": "E EMERALD AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 0,
+    "acreage": 0.1286,
+    "taxes": 536.89,
+    "sale_date": "11/22/97",
+    "sale_price": 123000,
+    "tax_records": {
+      "2014": {
+        "lnd": 15800,
+        "imp": 15800,
+        "exp": null,
+        "ass": 15800,
+        "lnd_psqf": 122861.58631415242,
+        "imp_psqf": null
+      },
+      "2013": {
+        "lnd": 15800,
+        "imp": 15800,
+        "exp": null,
+        "ass": 15800,
+        "lnd_psqf": 122861.58631415242,
+        "imp_psqf": null
+      },
+      "2012": {
+        "lnd": 15800,
+        "imp": 15800,
+        "exp": null,
+        "ass": 15800,
+        "lnd_psqf": 122861.58631415242,
+        "imp_psqf": null
+      },
+      "2011": {
+        "lnd": 15800,
+        "imp": 15800,
+        "exp": null,
+        "ass": 15800,
+        "lnd_psqf": 122861.58631415242,
+        "imp_psqf": null
+      }
+    },
+    "tax_rate": 0.03398037974683544,
+    "ratio": 0.12845528455284552
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700001_________M",
+    "class": "2",
+    "year_built": 1930,
+    "block": "22.07",
+    "lot": "1",
+    "street_address": "401 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1690,
+    "acreage": 0.1286,
+    "taxes": 7424.64,
+    "tax_records": {
+      "2014": {
+        "lnd": 73200,
+        "imp": 73200,
+        "exp": null,
+        "ass": 218500,
+        "lnd_psqf": 569206.8429237948,
+        "imp_psqf": 43.31360946745562
+      },
+      "2013": {
+        "lnd": 73200,
+        "imp": 73200,
+        "exp": null,
+        "ass": 218500,
+        "lnd_psqf": 569206.8429237948,
+        "imp_psqf": 43.31360946745562
+      },
+      "2012": {
+        "lnd": 73200,
+        "imp": 73200,
+        "exp": null,
+        "ass": 218500,
+        "lnd_psqf": 569206.8429237948,
+        "imp_psqf": 43.31360946745562
+      },
+      "2011": {
+        "lnd": 73200,
+        "imp": 73200,
+        "exp": null,
+        "ass": 218500,
+        "lnd_psqf": 569206.8429237948,
+        "imp_psqf": 43.31360946745562
+      }
+    },
+    "tax_rate": 0.03398004576659039
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700001__01_____M",
+    "class": "2",
+    "year_built": 1980,
+    "block": "22.07",
+    "lot": "1.01",
+    "street_address": "403 ALBANY AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1552,
+    "acreage": 0.143,
+    "taxes": 7910.55,
+    "sale_date": "07/02/07",
+    "sale_price": 302500,
+    "tax_records": {
+      "2014": {
+        "lnd": 79800,
+        "imp": 79800,
+        "exp": null,
+        "ass": 232800,
+        "lnd_psqf": 558041.958041958,
+        "imp_psqf": 51.41752577319588
+      },
+      "2013": {
+        "lnd": 79800,
+        "imp": 79800,
+        "exp": null,
+        "ass": 232800,
+        "lnd_psqf": 558041.958041958,
+        "imp_psqf": 51.41752577319588
+      },
+      "2012": {
+        "lnd": 79800,
+        "imp": 79800,
+        "exp": null,
+        "ass": 232800,
+        "lnd_psqf": 558041.958041958,
+        "imp_psqf": 51.41752577319588
+      },
+      "2011": {
+        "lnd": 79800,
+        "imp": 79800,
+        "exp": null,
+        "ass": 232800,
+        "lnd_psqf": 558041.958041958,
+        "imp_psqf": 51.41752577319588
+      }
+    },
+    "tax_rate": 0.03398002577319588,
+    "ratio": 0.7695867768595042
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700002_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "2",
+    "street_address": "122 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1432,
+    "acreage": 0.1435,
+    "taxes": 7027.07,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 206800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.072625698324025
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 206800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.072625698324025
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 206800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.072625698324025
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 206800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 53.072625698324025
+      }
+    },
+    "tax_rate": 0.03398002901353965
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700002__01_____M",
+    "class": "2",
+    "year_built": 1982,
+    "block": "22.07",
+    "lot": "2.01",
+    "street_address": "124 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1551,
+    "acreage": 0.1435,
+    "taxes": 7468.81,
+    "sale_date": "07/27/12",
+    "sale_price": 220000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 49.000644745325594
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 49.000644745325594
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 49.000644745325594
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 219800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 49.000644745325594
+      }
+    },
+    "tax_rate": 0.03398002729754322,
+    "ratio": 0.9990909090909091
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700003_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.07",
+    "lot": "3",
+    "street_address": "126 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1075,
+    "acreage": 0.1435,
+    "taxes": 5841.16,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 171900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 70.69767441860465
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 171900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 70.69767441860465
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 171900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 70.69767441860465
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 171900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 70.69767441860465
+      }
+    },
+    "tax_rate": 0.03397998836532868
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700003__01_____M",
+    "class": "2",
+    "year_built": 1955,
+    "block": "22.07",
+    "lot": "3.01",
+    "street_address": "128 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1008,
+    "acreage": 0.1435,
+    "taxes": 5849.42,
+    "sale_date": "06/29/01",
+    "sale_price": 121000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 179500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 75.39682539682539
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 179500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 75.39682539682539
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 179500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 75.39682539682539
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 179500,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 75.39682539682539
+      }
+    },
+    "tax_rate": 0.032587298050139275,
+    "ratio": 1.4834710743801653
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700004_________M",
+    "class": "2",
+    "year_built": 1955,
+    "block": "22.07",
+    "lot": "4",
+    "street_address": "130 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1486,
+    "acreage": 0.1435,
+    "taxes": 6242.13,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 183700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.14401076716016
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 183700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.14401076716016
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 183700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.14401076716016
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 183700,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.14401076716016
+      }
+    },
+    "tax_rate": 0.03398002177463255
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700005_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "5",
+    "street_address": "132 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1338,
+    "acreage": 0.1435,
+    "taxes": 7099.89,
+    "sale_date": "02/26/10",
+    "sale_price": 200000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 216300,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 56.80119581464873
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 189800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 56.80119581464873
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 189800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 56.80119581464873
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 189800,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 56.80119581464873
+      }
+    },
+    "tax_rate": 0.0328242718446602,
+    "ratio": 1.0815
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700005__01_____M",
+    "class": "2",
+    "year_built": 1945,
+    "block": "22.07",
+    "lot": "5.01",
+    "street_address": "134 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1878,
+    "acreage": 0.1435,
+    "taxes": 7543.56,
+    "sale_date": "04/26/08",
+    "sale_price": 211000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.46858359957402
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.46858359957402
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.46858359957402
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222000,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 40.46858359957402
+      }
+    },
+    "tax_rate": 0.03398,
+    "ratio": 1.052132701421801
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700006_________M",
+    "class": "2",
+    "year_built": 1925,
+    "block": "22.07",
+    "lot": "6",
+    "street_address": "136 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1744,
+    "acreage": 0.1435,
+    "taxes": 7438.22,
+    "sale_date": "05/16/97",
+    "sale_price": 75000,
+    "tax_records": {
+      "2014": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 218900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 41.28440366972477
+      },
+      "2013": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 218900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 41.28440366972477
+      },
+      "2012": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 218900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 41.28440366972477
+      },
+      "2011": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 218900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 41.28440366972477
+      }
+    },
+    "tax_rate": 0.03397999086340795,
+    "ratio": 2.9186666666666667
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700007_________M",
+    "class": "4A",
+    "year_built": 1948,
+    "block": "22.07",
+    "lot": "7",
+    "street_address": "140 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1782,
+    "acreage": 0.287,
+    "taxes": 5970.29,
+    "sale_date": "09/18/06",
+    "sale_price": 446000,
+    "tax_records": {
+      "2014": {
+        "lnd": 70000,
+        "imp": 70000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 243902.43902439027,
+        "imp_psqf": 39.28170594837262
+      },
+      "2013": {
+        "lnd": 70000,
+        "imp": 70000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 243902.43902439027,
+        "imp_psqf": 39.28170594837262
+      },
+      "2012": {
+        "lnd": 70000,
+        "imp": 70000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 243902.43902439027,
+        "imp_psqf": 39.28170594837262
+      },
+      "2011": {
+        "lnd": 70000,
+        "imp": 70000,
+        "exp": null,
+        "ass": 175700,
+        "lnd_psqf": 243902.43902439027,
+        "imp_psqf": 39.28170594837262
+      }
+    },
+    "tax_rate": 0.03398002276607854,
+    "ratio": 0.3939461883408072
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700008_________M",
+    "class": "2",
+    "year_built": 2007,
+    "block": "22.07",
+    "lot": "8",
+    "street_address": "142 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2173,
+    "acreage": 0.1435,
+    "taxes": 10360.5,
+    "sale_date": "06/29/07",
+    "sale_price": 377500,
+    "tax_records": {
+      "2014": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 304900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 33.13391624482283
+      },
+      "2013": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 304900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 33.13391624482283
+      },
+      "2012": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 304900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 33.13391624482283
+      },
+      "2011": {
+        "lnd": 72000,
+        "imp": 72000,
+        "exp": null,
+        "ass": 304900,
+        "lnd_psqf": 501742.1602787457,
+        "imp_psqf": 33.13391624482283
+      }
+    },
+    "tax_rate": 0.033979993440472284,
+    "ratio": 0.807682119205298
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700009_________M",
+    "class": "2",
+    "year_built": 1945,
+    "block": "22.07",
+    "lot": "9",
+    "street_address": "144 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1111,
+    "acreage": 0.1435,
+    "taxes": 6486.78,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 190900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 68.40684068406841
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 190900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 68.40684068406841
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 190900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 68.40684068406841
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 190900,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 68.40684068406841
+      }
+    },
+    "tax_rate": 0.03397998952331063
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700010_________M",
+    "class": "2",
+    "year_built": 1940,
+    "block": "22.07",
+    "lot": "10",
+    "street_address": "146 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1772,
+    "acreage": 0.1435,
+    "taxes": 7835.79,
+    "sale_date": "05/25/12",
+    "sale_price": 85000,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 230600,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 42.88939051918736
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 230600,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 42.88939051918736
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 230600,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 42.88939051918736
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 230600,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 42.88939051918736
+      }
+    },
+    "tax_rate": 0.03398000867302688,
+    "ratio": 2.712941176470588
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700011_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "11",
+    "street_address": "148 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1476,
+    "acreage": 0.1435,
+    "taxes": 7553.75,
+    "tax_records": {
+      "2014": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222300,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.49051490514905
+      },
+      "2013": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222300,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.49051490514905
+      },
+      "2012": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222300,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.49051490514905
+      },
+      "2011": {
+        "lnd": 76000,
+        "imp": 76000,
+        "exp": null,
+        "ass": 222300,
+        "lnd_psqf": 529616.724738676,
+        "imp_psqf": 51.49051490514905
+      }
+    },
+    "tax_rate": 0.033979982006297794
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700012_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.07",
+    "lot": "12",
+    "street_address": "150 WINDSOR AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1546,
+    "acreage": 0.264,
+    "taxes": 7645.5,
+    "sale_date": "05/16/94",
+    "sale_price": 100000,
+    "tax_records": {
+      "2014": {
+        "lnd": 83300,
+        "imp": 83300,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 315530.30303030304,
+        "imp_psqf": 53.88098318240621
+      },
+      "2013": {
+        "lnd": 83300,
+        "imp": 83300,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 315530.30303030304,
+        "imp_psqf": 53.88098318240621
+      },
+      "2012": {
+        "lnd": 83300,
+        "imp": 83300,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 315530.30303030304,
+        "imp_psqf": 53.88098318240621
+      },
+      "2011": {
+        "lnd": 83300,
+        "imp": 83300,
+        "exp": null,
+        "ass": 225000,
+        "lnd_psqf": 315530.30303030304,
+        "imp_psqf": 53.88098318240621
+      }
+    },
+    "tax_rate": 0.03398,
+    "ratio": 2.25
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700013_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "13",
+    "street_address": "103 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1667,
+    "acreage": 0.1951,
+    "taxes": 8824.61,
+    "sale_date": "06/25/03",
+    "sale_price": 120000,
+    "tax_records": {
+      "2014": {
+        "lnd": 85800,
+        "imp": 85800,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 439774.4746283957,
+        "imp_psqf": 51.46970605878824
+      },
+      "2013": {
+        "lnd": 85800,
+        "imp": 85800,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 439774.4746283957,
+        "imp_psqf": 51.46970605878824
+      },
+      "2012": {
+        "lnd": 85800,
+        "imp": 85800,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 439774.4746283957,
+        "imp_psqf": 51.46970605878824
+      },
+      "2011": {
+        "lnd": 85800,
+        "imp": 85800,
+        "exp": null,
+        "ass": 259700,
+        "lnd_psqf": 439774.4746283957,
+        "imp_psqf": 51.46970605878824
+      }
+    },
+    "tax_rate": 0.033980015402387376,
+    "ratio": 2.1641666666666666
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700014_________M",
+    "class": "2",
+    "year_built": 1992,
+    "block": "22.07",
+    "lot": "14",
+    "street_address": "105 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2208,
+    "acreage": 0.1435,
+    "taxes": 10370.69,
+    "sale_date": "04/30/93",
+    "sale_price": 156000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.231884057971016
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.231884057971016
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.231884057971016
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305200,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.231884057971016
+      }
+    },
+    "tax_rate": 0.033979980340760156,
+    "ratio": 1.9564102564102563
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700014__01_____M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "14.01",
+    "street_address": "107 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2001,
+    "acreage": 0.1435,
+    "taxes": 8515.39,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.9800099950025
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.9800099950025
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.9800099950025
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 39.9800099950025
+      }
+    },
+    "tax_rate": 0.033980007980845967
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700015_________M",
+    "class": "2",
+    "year_built": 1992,
+    "block": "22.07",
+    "lot": "15",
+    "street_address": "109 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2196,
+    "acreage": 0.1435,
+    "taxes": 10387.69,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.42987249544627
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.42987249544627
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.42987249544627
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 305700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 36.42987249544627
+      }
+    },
+    "tax_rate": 0.033980013084723586
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700016_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "16",
+    "street_address": "111 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1350,
+    "acreage": 0.1435,
+    "taxes": 5976.59,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 190600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 59.25925925925926
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 190600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 59.25925925925926
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 190600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 59.25925925925926
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 190600,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 59.25925925925926
+      }
+    },
+    "tax_rate": 0.03135671563483736
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700017_________M",
+    "class": "1",
+    "year_built": 0,
+    "block": "22.07",
+    "lot": "17",
+    "street_address": "DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 0,
+    "acreage": 0.1435,
+    "taxes": 2718.4,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      }
+    },
+    "tax_rate": 0.03398
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700017__01_____M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "17.01",
+    "street_address": "115 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1368,
+    "acreage": 0.1435,
+    "taxes": 6773.67,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 58.47953216374269
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 58.47953216374269
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 58.47953216374269
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206700,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 58.47953216374269
+      }
+    },
+    "tax_rate": 0.03277053701015965
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700018_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "18",
+    "street_address": "117 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1683,
+    "acreage": 0.1435,
+    "taxes": 7030.46,
+    "sale_date": "05/23/05",
+    "sale_price": 215000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.534165181224004
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.534165181224004
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.534165181224004
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 206900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.534165181224004
+      }
+    },
+    "tax_rate": 0.03397999033349444,
+    "ratio": 0.9623255813953489
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700019_________M",
+    "class": "2",
+    "year_built": 1988,
+    "block": "22.07",
+    "lot": "19",
+    "street_address": "119 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 2295,
+    "acreage": 0.1435,
+    "taxes": 10482.84,
+    "sale_date": "11/15/96",
+    "sale_price": 138500,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 308500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 34.85838779956427
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 308500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 34.85838779956427
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 308500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 34.85838779956427
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 308500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 34.85838779956427
+      }
+    },
+    "tax_rate": 0.03398003241491086,
+    "ratio": 2.2274368231046933
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700020_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "20",
+    "street_address": "201 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1419,
+    "acreage": 0.1435,
+    "taxes": 6252.32,
+    "sale_date": "08/27/99",
+    "sale_price": 94000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.37773079633545
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.37773079633545
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 181300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.37773079633545
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 181300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 56.37773079633545
+      }
+    },
+    "tax_rate": 0.033979999999999996,
+    "ratio": 1.9574468085106382
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700021_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "21",
+    "street_address": "203 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1886,
+    "acreage": 0.1435,
+    "taxes": 8505.19,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.417815482502654
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.417815482502654
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.417815482502654
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 250300,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 42.417815482502654
+      }
+    },
+    "tax_rate": 0.03397998401917699
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700022_________M",
+    "class": "1",
+    "year_built": 0,
+    "block": "22.07",
+    "lot": "22",
+    "street_address": "DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 0,
+    "acreage": 0.1435,
+    "taxes": 2718.4,
+    "sale_date": "11/25/02",
+    "sale_price": 37000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 80000,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": null
+      }
+    },
+    "tax_rate": 0.03398,
+    "ratio": 2.1621621621621623
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700023_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.07",
+    "lot": "23",
+    "street_address": "207 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1008,
+    "acreage": 0.1435,
+    "taxes": 6269.32,
+    "sale_date": "09/24/93",
+    "sale_price": 91000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 184500,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 79.36507936507937
+      }
+    },
+    "tax_rate": 0.033980054200542,
+    "ratio": 2.0274725274725274
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700024_________M",
+    "class": "2",
+    "year_built": 1950,
+    "block": "22.07",
+    "lot": "24",
+    "street_address": "209 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1680,
+    "acreage": 0.1435,
+    "taxes": 7812.0,
+    "sale_date": "09/30/11",
+    "sale_price": 250000,
+    "tax_records": {
+      "2014": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 229900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.61904761904762
+      },
+      "2013": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 229900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.61904761904762
+      },
+      "2012": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 229900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.61904761904762
+      },
+      "2011": {
+        "lnd": 80000,
+        "imp": 80000,
+        "exp": null,
+        "ass": 229900,
+        "lnd_psqf": 557491.2891986063,
+        "imp_psqf": 47.61904761904762
+      }
+    },
+    "tax_rate": 0.03397999130056546,
+    "ratio": 0.9196
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700025_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "25",
+    "street_address": "211 DENVER AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1885,
+    "acreage": 0.0857,
+    "taxes": 7139.2,
+    "sale_date": "06/12/13",
+    "sale_price": 260000,
+    "tax_records": {
+      "2014": {
+        "lnd": 77100,
+        "imp": 77100,
+        "exp": null,
+        "ass": 210100,
+        "lnd_psqf": 899649.9416569428,
+        "imp_psqf": 40.90185676392573
+      },
+      "2013": {
+        "lnd": 77100,
+        "imp": 77100,
+        "exp": null,
+        "ass": 210100,
+        "lnd_psqf": 899649.9416569428,
+        "imp_psqf": 40.90185676392573
+      },
+      "2012": {
+        "lnd": 77100,
+        "imp": 77100,
+        "exp": null,
+        "ass": 210100,
+        "lnd_psqf": 899649.9416569428,
+        "imp_psqf": 40.90185676392573
+      },
+      "2011": {
+        "lnd": 77100,
+        "imp": 77100,
+        "exp": null,
+        "ass": 210100,
+        "lnd_psqf": 899649.9416569428,
+        "imp_psqf": 40.90185676392573
+      }
+    },
+    "tax_rate": 0.03398000951927654,
+    "ratio": 0.808076923076923
+  },
+  {
+    "link": "http://tax1.co.monmouth.nj.us/cgi-bin/m4.cgi?district=0416&l02=041600022__0700026_________M",
+    "class": "2",
+    "year_built": 1920,
+    "block": "22.07",
+    "lot": "26",
+    "street_address": "406 E MELROSE AVE",
+    "city_state": "HADDON TOWNSHIP",
+    "sq_foot": 1402,
+    "acreage": 0.0908,
+    "taxes": 6931.92,
+    "tax_records": {
+      "2014": {
+        "lnd": 73100,
+        "imp": 73100,
+        "exp": null,
+        "ass": 204000,
+        "lnd_psqf": 805066.0792951541,
+        "imp_psqf": 52.139800285306706
+      },
+      "2013": {
+        "lnd": 73100,
+        "imp": 73100,
+        "exp": null,
+        "ass": 204000,
+        "lnd_psqf": 805066.0792951541,
+        "imp_psqf": 52.139800285306706
+      },
+      "2012": {
+        "lnd": 73100,
+        "imp": 73100,
+        "exp": null,
+        "ass": 204000,
+        "lnd_psqf": 805066.0792951541,
+        "imp_psqf": 52.139800285306706
+      },
+      "2011": {
+        "lnd": 73100,
+        "imp": 73100,
+        "exp": null,
+        "ass": 204000,
+        "lnd_psqf": 805066.0792951541,
+        "imp_psqf": 52.139800285306706
+      }
+    },
+    "tax_rate": 0.03398
+  }
+]

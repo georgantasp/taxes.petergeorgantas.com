@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="taxes">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tax Assessment Analysis</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+  </head>
+  <body>
+    
+    
+    <!-- Wrap all page content here -->
+    <div id="wrap">
+
+      <!-- Begin page content -->
+      <div class="container" ng-controller="MainCtrl">
+        <div class="page-header">
+          <h1>
+            <span>Tax Assessment Analysis</span>
+            <small>421 Albany Ave</small>
+            <div class="btn-group pull-right">
+              <button type="button" class="btn btn-default" ng-class="{active: (path=='/intro')}" ng-click="updatePath('/intro')">Introduction</button>
+              <button type="button" class="btn btn-default" ng-class="{active: (path=='/argue')}" ng-click="updatePath('/argue')">Arguments</button>
+              <button type="button" class="btn btn-default" ng-class="{active: (path=='/compare')}" ng-click="updatePath('/compare')">Comparables</button>
+              <button type="button" class="btn btn-default" ng-class="{active: (path=='/data')}" ng-click="updatePath('/data')">More Data</button>
+              <button type="button" class="btn btn-default" ng-class="{active: (path=='/credits')}" ng-click="updatePath('/credits')">Credits</button>
+            </div>
+          </h1>
+          <h6>
+            <a href="AssessmentAppealOverview.pdf" download="AssessmentAppealOverview.pdf">Download Hard Copy</a>
+          </h6>
+        </div>
+        
+        <div ng-include="path + '.html'">
+        </div>
+      </div>
+
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/lib/underscore.js"></script>
+    <script src="js/lib/angular.js"></script>
+    <script src="js/lib/simple_statistics.js"></script>
+    <script src="js/lib/highcharts-all.js"></script>
+    <script src="js/lib/highcharts-ng.js"></script>
+    <script src="js/lib/moment.min.js"></script>
+    <script src="js/mainCtrl.js"></script>
+    <script src="js/compareCtrl.js"></script>
+    <script src="js/dataCtrl.js"></script>
+    <script src="js/filters.js"></script>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-48396214-1']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </body>
+</html>

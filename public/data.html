@@ -1,0 +1,164 @@
+<div ng-controller="DataCtrl">
+  <p class="lead">
+    <strong>More Data</strong>
+    <small>The data presented here was scraped from the njactb website.</small>
+  </p>
+  
+  <p>Data can be filtered by adjusting the inputs.</p>
+  
+  <div class="row">
+    
+    <div class="col-xs-6 col-sm-3">
+      <div class="panel panel-default">
+        <div class="panel-heading">Last Sale Price</div>
+        <div class="panel-body">
+          <div class="container-fluid form-horizontal">
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Min</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.sale_price.start">
+              </div>
+            </div>
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Max</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.sale_price.end">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-xs-6 col-sm-3">
+      <div class="panel panel-default">
+        <div class="panel-heading">Last Sale Date</div>
+        <div class="panel-body">
+          <div class="container-fluid form-horizontal">
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Min</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.sale_date.start" placeholder="MM/DD/YY">
+              </div>
+            </div>
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Max</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.sale_date.end" placeholder="MM/DD/YY">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xs-6 col-sm-3">
+      <div class="panel panel-default">
+        <div class="panel-heading">Square Feet</div>
+        <div class="panel-body">
+          <div class="container-fluid form-horizontal">
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Min</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.sq_feet.start">
+              </div>
+            </div>
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Max</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.sq_feet.end">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-xs-6 col-sm-3">
+      <div class="panel panel-default">
+        <div class="panel-heading">Year Built</div>
+        <div class="panel-body">
+          <div class="container-fluid form-horizontal">
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Min</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.year_built.start">
+              </div>
+            </div>
+            <div class="row form-group">
+              <label class="control-label col-xs-3">Max</label>
+              <div class="col-xs-9">
+                <input class="form-control" ng-model="filter_options.year_built.end">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  
+  
+  <!-- <div class="row placeholders">
+    <div class="col-xs-6 col-sm-3 placeholder">
+      <h1>{{mean | number:0}}</h1>
+      <h4>Mean</h4>
+      <span class="text-muted">Something else</span>
+    </div>
+    <div class="col-xs-6 col-sm-3 placeholder">
+      <h1>{{std | number:0}}</h1>
+      <h4>Standard Deviation</h4>
+      <span class="text-muted">Something else</span>
+    </div>
+    <div class="col-xs-6 col-sm-3 placeholder">
+      <h1></h1>
+      <h4>Label</h4>
+      <span class="text-muted">Something else</span>
+    </div>
+    <div class="col-xs-6 col-sm-3 placeholder">
+      <h1></h1>
+      <h4>Label</h4>
+      <span class="text-muted">Something else</span>
+    </div>
+  </div> -->
+  
+  
+    <p>Graph can be changed by adjusting the inputs. Data must be filtered below 500 items.</p>
+  
+    <div class="row">
+      <div class="col-xs-12 col-sm-3">
+        
+          <div class="panel panel-default">
+            <div class="panel-heading">Graph Options</div>
+            <div class="panel-body">
+              <div class="container-fluid form-horizontal">
+                <div class="row form-group">
+                  <label for="sq_foot_start" class="control-label col-xs-2">X</label>
+                  <div class="col-xs-10">
+                    <select class="form-control" ng-model="chartOptions.x" ng-options="option.value as option.name for option in graph_options"></select>
+                  </div>
+                </div>
+                <div class="row form-group">
+                  <label for="sq_foot_end" class="control-label col-xs-2">Y</label>
+                  <div class="col-xs-10">
+                    <select class="form-control" ng-model="chartOptions.y" ng-options="option.value as option.name for option in graph_options"></select>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+        
+      </div>
+      <div class="col-xs-12 col-sm-9">
+        <div class="panel panel-default">
+          <highchart id="chart1" config="chartConfig" class="span10"></highchart>
+        </div>
+      </div>
+    </div>
+    
+  
+    <p>Data can be sorted by clicking the table headers.</p>
+    <div ng-include="'table.html'"></div>
+  
+</div>

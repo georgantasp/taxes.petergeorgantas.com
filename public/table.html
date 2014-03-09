@@ -1,0 +1,113 @@
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th colspan="5">{{table_data.length}} Rows</th>
+      <th colspan="4">Assessments</th>
+      <th colspan="5"></th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Address</th>
+      <th ng-click="sortData('year_built')">Year Built</th>
+      <th ng-click="sortData('sq_foot')">Sq Feet</th>
+    
+      <th ng-click="sortData('acreage')">Acreage</th>
+
+      <th ng-click="sortData('tax_records[\'2011\'].ass')">2011</th>
+      <th ng-click="sortData('tax_records[\'2012\'].ass')">2012</th>
+      <th ng-click="sortData('tax_records[\'2013\'].ass')">2013</th>
+      <th ng-click="sortData('tax_records[\'2014\'].ass')">2014</th>
+      <th ng-click="sortData('taxes')">Taxes</th>
+      <th ng-click="sortData('tax_rate')">Tax Rate</th>
+    
+      <th>Sale Date</th>
+      <th ng-click="sortData('sale_price')">Sale Price</th>
+      <th ng-click="sortData('ratio')">Ratio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Home</td>
+      <td><a target="_blank" ng-href="{{home.link}}">{{home.street_address}}</a></td>
+      <td class="text-right">{{home.year_built }}
+      <td class="text-right">{{home.sq_foot | number:0 }}</td>
+
+      <td class="text-right">{{home.acreage}}</td>
+      
+      <td class="text-right">{{home.tax_records['2011'].ass | number:0 }}</td>
+      <td class="text-right">{{home.tax_records['2012'].ass | number:0 }}</td>
+      <td class="text-right">{{home.tax_records['2013'].ass | number:0 }}</td>
+      <td class="text-right">{{home.tax_records['2014'].ass | number:0 }}</td>
+      <td class="text-right">{{home.taxes | number:0 }}</td>
+      <td class="text-right">{{home.tax_rate * 100 | number:3}}</td>
+      
+      <td>{{home.sale_date | moment:'MM/DD/YY'}}</td>
+      <td class="text-right">{{home.sale_price | number:0 }}</td>
+      <td class="text-right">{{home.ratio | number:3}}</td>
+    </tr>
+    <tr ng-show="showNotes">
+      <td>
+      </td>
+      <td colspan="13">
+        <div class="row">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-2">
+                <strong>Notes:</strong>
+              </div>
+              <div class="col-md-10">
+                <p>
+                  <ul>
+                    <li ng-repeat="note in home.notes">{{note}}</li>
+                  </ul>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    
+    <tr ng-repeat-start="item in table_data | orderBy:predicate:reverse | first:totalDisplayed ">
+      <td class="text-right">{{$index+1}}</td>
+      <td><a target="_blank" ng-href="{{item.link}}">{{item.street_address}}</a></td>
+      <td class="text-right">{{item.year_built }}
+      <td class="text-right">{{item.sq_foot | number:0 }}</td>
+
+      <td class="text-right">{{item.acreage}}</td>
+      
+      <td class="text-right">{{item.tax_records['2011'].ass | number:0 }}</td>
+      <td class="text-right">{{item.tax_records['2012'].ass | number:0 }}</td>
+      <td class="text-right">{{item.tax_records['2013'].ass | number:0 }}</td>
+      <td class="text-right">{{item.tax_records['2014'].ass | number:0 }}</td>
+      <td class="text-right">{{item.taxes | number:0 }}</td>
+      <td class="text-right">{{item.tax_rate * 100 | number:3}}</td>
+      
+      <td>{{item.sale_date | moment:'MM/DD/YY'}}</td>
+      <td class="text-right">{{item.sale_price | number:0 }}</td>
+      <td class="text-right">{{item.ratio | number:3}}</td>
+    </tr>
+    <tr ng-repeat-end ng-show="showNotes">
+      <td>
+      </td>
+      <td colspan="13">
+        <div class="row">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-2">
+                <strong>Notes:</strong>
+              </div>
+              <div class="col-md-10">
+                <p>
+                  <ul>
+                    <li ng-repeat="note in item.notes">{{note}}</li>
+                  </ul>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
